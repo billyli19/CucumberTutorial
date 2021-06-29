@@ -1,3 +1,6 @@
+- Tutorial Link
+https://cucumber.io/docs/guides/10-minute-tutorial/
+
 In this quick tutorial you will learn how to:
 - Install Cucumber
 - Write your first Scenario using the Gherkin syntax
@@ -9,4 +12,3 @@ In this quick tutorial you will learn how to:
 Before we begin, you will need the following:
 - Node.js
 - A text editor
-
